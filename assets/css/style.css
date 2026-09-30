@@ -122,12 +122,12 @@ strong { font-weight: 500; }
   .home .bio-martin-a p:first-child, .home .bio-martin-b p:first-child { margin-bottom: 0; }
 
   /* ---- skills ---- */
-  .home [class*="skill-"] { display: block; padding-bottom: 27px; }
-  .home [class*="skill-"] span {
+  .home :is(.skill-1, .skill-2, .skill-3, .skill-4) { display: block; padding-bottom: 27px; }
+  .home :is(.skill-1, .skill-2, .skill-3, .skill-4) span {
     display: block; width: 200px; margin-top: 34px; text-align: right;
     font-size: 24px; line-height: 29px; color: #fff; transition: color .2s;
   }
-  .home [class*="skill-"]:hover span { color: var(--ink); }
+  .home :is(.skill-1, .skill-2, .skill-3, .skill-4):hover span { color: var(--ink); }
 
   /* ---- contact ---- */
   .home .contact-bg { height: max(1080px, 100vh); background: url("../../images/backpic_final.jpg") center / cover no-repeat; }
@@ -198,8 +198,8 @@ strong { font-weight: 500; }
   .home .skill-list { display: grid; grid-template-columns: repeat(2, minmax(0, 150px)); justify-content: center; gap: 36px 24px; }
   .home .skill { display: flex; flex-direction: column; align-items: center; gap: 10px; }
   .home .hand-1, .home .hand-2, .home .hand-3, .home .hand-4 { width: 90px; }
-  .home [class*="skill-"] span { color: #fff; font-size: 20px; line-height: 24px; }
-  .home [class*="skill-"]:hover span { color: var(--ink); }
+  .home :is(.skill-1, .skill-2, .skill-3, .skill-4) span { color: #fff; font-size: 20px; line-height: 24px; }
+  .home :is(.skill-1, .skill-2, .skill-3, .skill-4):hover span { color: var(--ink); }
 
   .home .sec-contact { background: url("../../images/backpic_responsive_hd_final.jpg") center / cover no-repeat; overflow: hidden; }
   .home .contact-card {
