@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #323232;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="5.43" y1="26.98" x2="126.45" y2="216.48" gradientTransform="matrix(0.97, 0.23, -0.23, 0.97, 94.22, 62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.22" stop-color="#fff"/>
+      <stop offset="0.3" stop-color="#f0f0f0"/>
+      <stop offset="0.44" stop-color="#c8c8c8"/>
+      <stop offset="0.64" stop-color="#878787"/>
+      <stop offset="0.83" stop-color="#404040"/>
+    </linearGradient>
+  </defs>
+  <title>hands</title>
+  <g>
+    <g>
+      <rect class="cls-1" x="127.21" y="121.28" width="52.53" height="7.5" transform="translate(-3.19 246.05) rotate(-76.85)"/>
+      <rect class="cls-1" x="126.38" y="156.11" width="22.51" height="7.5" transform="translate(-49.35 257.53) rotate(-76.85)"/>
+      <rect class="cls-1" x="149.25" y="90.34" width="7.5" height="7.5" transform="translate(26.57 221.68) rotate(-76.85)"/>
+      <polygon class="cls-1" points="131.42 169.97 126.3 191.9 53.22 174.83 58.34 152.9 65.65 154.61 62.23 169.23 120.7 182.88 124.11 168.27 131.42 169.97"/>
+      <polygon class="cls-1" points="151.91 82.28 150.2 89.58 142.89 87.88 137.77 109.8 130.46 108.09 137.29 78.86 151.91 82.28"/>
+      <polygon class="cls-1" points="139 71.55 137.29 78.86 122.68 75.45 117.55 97.37 110.25 95.67 117.08 66.43 139 71.55"/>
+      <polygon class="cls-1" points="118.78 59.12 117.08 66.43 102.46 63.02 95.63 92.25 88.32 90.54 103.69 24.77 111 26.48 104.17 55.71 118.78 59.12"/>
+      <rect class="cls-1" x="93.48" y="11.9" width="7.5" height="15.01" transform="translate(56.21 109.68) rotate(-76.85)"/>
+      <rect class="cls-1" x="48.89" y="140.99" width="15.01" height="7.5" transform="translate(-97.38 166.73) rotate(-76.85)"/>
+      <polygon class="cls-1" points="89.07 21.36 70.29 101.75 62.98 100.04 64.69 92.73 57.38 91.02 59.09 83.71 66.4 85.42 81.76 19.65 89.07 21.36"/>
+      <rect class="cls-1" x="44.99" y="124.66" width="15.01" height="7.5" transform="translate(-84.49 150.33) rotate(-76.85)"/>
+      <rect class="cls-1" x="41.1" y="108.34" width="15.01" height="7.5" transform="translate(-71.61 133.93) rotate(-76.85)"/>
+      <polygon class="cls-1" points="60.8 76.41 59.09 83.71 44.47 80.3 41.06 94.92 33.75 93.21 38.87 71.28 60.8 76.41"/>
+      <rect class="cls-1" x="40.11" y="95.67" width="7.5" height="7.5" transform="translate(-62.94 119.51) rotate(-76.85)"/>
+    </g>
+    <polygon class="cls-2" points="155.8 98.6 143.85 149.76 136.54 148.05 131.42 169.97 124.11 168.27 120.7 182.88 62.23 169.23 65.65 154.61 58.34 152.9 61.75 138.29 54.45 136.58 57.86 121.96 50.55 120.25 53.97 105.64 46.66 103.93 48.37 96.62 41.06 94.92 44.47 80.3 59.09 83.71 57.38 91.02 64.69 92.73 62.98 100.04 70.29 101.75 89.07 21.36 103.69 24.77 88.32 90.54 95.63 92.25 102.46 63.02 117.08 66.43 110.25 95.67 117.55 97.37 122.68 75.45 137.29 78.86 130.46 108.09 137.77 109.8 142.89 87.88 150.2 89.58 148.49 96.89 155.8 98.6"/>
+  </g>
+</svg>

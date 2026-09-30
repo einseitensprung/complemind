@@ -1,0 +1,39 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1320 460">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #0090d4;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10.9057px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" y="3" width="412.18454" height="412.18265"/>
+    </clipPath>
+  </defs>
+  <title>BG_Logo_redesign</title>
+  <g>
+    <rect class="cls-2" y="2.99817" width="412.18454" height="412.18265"/>
+    <rect class="cls-2" y="3" width="412.18454" height="412.18265"/>
+    <rect class="cls-3" x="0.25993" y="3.72526" width="411.92461" height="411.45739"/>
+    <g class="cls-4">
+      <path class="cls-5" d="M7.65675,174.678s30.20878-17.45634,66.6756-1.91391c23.05829,9.82782,21.89682-2.82461,42.534-14.79542,37.08119-21.506,45.106,53.57791,86.51312,4.3023,42.85576-50.99865,90.81537,24.267,125.48643,25.17943,25.83014.68161,37.62646-2.60644,66.76823-23.99072"/>
+    </g>
+  </g>
+</svg>

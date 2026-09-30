@@ -1,0 +1,87 @@
+/* Homepage stage - desktop geometry (generated from the original layout) */
+@media (min-width: 961px) {
+  .home .w-curtain-a { z-index:163;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/sliderwneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .w-curtain-b { z-index:164;top:0px;left:calc(50% + -785px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/sliderwneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .w-curtain-edge { z-index:165;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/sliderwneu_ohne-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .w-fill-l { z-index:166;top:0px;left:calc(50% + -2050px);width:1280px;height:1080px;background-color:#fff }
+  .home .w-fill-r { z-index:167;top:0px;left:calc(50% + 460px);width:1280px;height:1080px;background-color:#fff }
+  .home .logo-l { z-index:168;top:360px;left:calc(50% + -125px);width:250px }
+  .home .logo-r { z-index:170;top:360px;left:calc(50% + -125px);width:250px }
+  .home .intro-l { z-index:172;top:362px;left:calc(50% + -480px);width:300px }
+  .home .intro-r { z-index:182;top:362px;left:calc(50% + 180px);width:300px }
+  .home .scroll-hint { z-index:230;top:600px;left:calc(50% + -10px);width:20px }
+  .home .g-curtain-a { z-index:99;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/slidergneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .g-curtain-b { z-index:100;top:0px;left:calc(50% + -785px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/slidergneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .g-curtain-edge { z-index:101;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/slidergneu_ohne-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .g-fill-l { z-index:102;top:0px;left:calc(50% + -2050px);width:1280px;height:1080px;background-color:#646464 }
+  .home .g-fill-r { z-index:103;top:0px;left:calc(50% + 460px);width:1280px;height:1080px;background-color:#646464 }
+  .home .about-weare { z-index:133;top:230px;left:calc(50% + -42px);width:83px }
+  .home .about-wordmark { z-index:137;top:532px;left:calc(50% + -75px);width:150px }
+  .home .head-markus-a { z-index:131;top:269px;left:calc(50% + -100px);width:500px;height:250px;background:url("../../images/markus_juergensen_h-u647-fr.png") no-repeat;background-position:calc(0% + var(--bx, 0px)) top;background-size:contain }
+  .home .head-martin-a { z-index:132;top:269px;left:calc(50% + -400px);width:500px;height:250px;background:url("../../images/martin_roemer_h-u648-fr.png") no-repeat;background-position:calc(100% + var(--bx, 0px)) top;background-size:contain }
+  .home .head-markus-b { z-index:139;top:269px;left:calc(50% + -100px);width:500px;height:250px;background:url("../../images/markus_juergensen_f-u746-fr.png") no-repeat;background-position:calc(100% + var(--bx, 0px)) top;background-size:contain }
+  .home .head-martin-b { z-index:140;top:269px;left:calc(50% + -400px);width:500px;height:250px;background:url("../../images/martin_roemer_f-u747-fr.png") no-repeat;background-position:calc(0% + var(--bx, 0px)) top;background-size:contain }
+  .home .mask-r { z-index:106;top:269px;left:calc(50% + 200px);width:200px;height:250px;background-color:#646464 }
+  .home .mask-l { z-index:107;top:269px;left:calc(50% + -400px);width:200px;height:250px;background-color:#646464 }
+  .home .bio-martin-a { z-index:141;top:302px;left:calc(50% + -200px);width:267px }
+  .home .bio-markus-a { z-index:152;top:391px;left:calc(50% + -67px);width:267px }
+  .home .head-markus-c { z-index:104;top:269px;left:calc(50% + -100px);width:500px;height:250px;background:url("../../images/markus_juergensen_f-u746-fr.png") no-repeat;background-position:right top;background-size:contain }
+  .home .head-martin-c { z-index:105;top:269px;left:calc(50% + -400px);width:500px;height:250px;background:url("../../images/martin_roemer_f-u747-fr.png") no-repeat;background-position:left top;background-size:contain }
+  .home .bio-martin-b { z-index:108;top:302px;left:calc(50% + -200px);width:267px }
+  .home .bio-markus-b { z-index:120;top:391px;left:calc(50% + -67px);width:267px }
+  .home .b-curtain-a { z-index:54;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/sliderbneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .b-curtain-b { z-index:55;top:0px;left:calc(50% + -785px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/sliderbneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .b-curtain-edge { z-index:56;top:0px;left:calc(50% + -985px);width:1460px;height:1080px;background:url("../../images/sliderbneu_ohne-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .b-fill-l { z-index:57;top:0px;left:calc(50% + -2050px);width:1280px;height:1080px;background-color:#00a0e6 }
+  .home .b-fill-r { z-index:58;top:0px;left:calc(50% + 460px);width:1280px;height:1080px;background-color:#00a0e6 }
+  .home .hand-in-1 { z-index:95;top:350px;left:calc(50% + -294px);width:100px }
+  .home .hand-in-2 { z-index:93;top:350px;left:calc(50% + -134px);width:100px }
+  .home .hand-in-3 { z-index:91;top:350px;left:calc(50% + 26px);width:100px }
+  .home .hand-in-4 { z-index:97;top:350px;left:calc(50% + 186px);width:100px }
+  .home .skillbar-1 { z-index:87;top:411px;left:calc(50% + -480px);width:350px;height:105px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,10,131);background-color:#00a0e6 }
+  .home .skillbar-2 { z-index:88;top:411px;left:calc(50% + -321px);width:350px;height:105px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,10,131);background-color:#00a0e6 }
+  .home .skillbar-3 { z-index:89;top:411px;left:calc(50% + -161px);width:350px;height:105px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,10,131);background-color:#00a0e6 }
+  .home .skillbar-4 { z-index:90;top:411px;left:calc(50% + -1px);width:350px;height:105px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,10,131);background-color:#00a0e6 }
+  .home .hand-1 { z-index:63;top:350px;left:calc(50% + -294px);width:100px }
+  .home .hand-2 { z-index:61;top:350px;left:calc(50% + -134px);width:100px }
+  .home .hand-3 { z-index:59;top:350px;left:calc(50% + 26px);width:100px }
+  .home .hand-4 { z-index:65;top:350px;left:calc(50% + 186px);width:100px }
+  .home .skill-1 { z-index:67;top:428px;left:calc(50% + -474px);width:300px;height:63px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,8,112) }
+  .home .skill-2 { z-index:72;top:428px;left:calc(50% + -313px);width:300px;height:63px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,8,112) }
+  .home .skill-3 { z-index:77;top:428px;left:calc(50% + -154px);width:300px;height:64px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,8,112) }
+  .home .skill-4 { z-index:82;top:428px;left:calc(50% + 6px);width:300px;height:65px;--tf:matrix(0.7431,-0.6691,0.6691,0.7431,8,112) }
+  .home .contact-bg { z-index:3;top:0px;left:0;right:0 }
+  .home .contact-circle { z-index:19;top:131px;left:calc(50% + -270px);width:540px;height:540px;background-color:#4b4b4b }
+  .home .contact-logo { z-index:20;top:347px;left:calc(50% + -125px);width:250px }
+  .home .contact-claim { z-index:36;top:200px;left:calc(50% + -121px);width:140px }
+  .home .contact-together { z-index:44;top:200px;left:calc(50% + -43px);width:176px }
+  .home .contact-mail { z-index:29;top:515px;left:calc(50% + -123px);width:280px;height:32px }
+  .home .contact-phone { z-index:22;top:557px;left:calc(50% + -123px);width:245px;height:32px }
+  .home .contact-legal { z-index:50;top:600px;left:calc(50% + -85px);width:218px }
+  .home .clients-label { z-index:15;top:700px;left:calc(50% + -174px);width:349px }
+  .home .clients { z-index:9;top:731px;left:calc(50% + -1297px);height:60px }
+  .home .partner-label { z-index:4;top:825px;left:calc(50% + -143px);width:157px }
+  .home .partner-link { z-index:8;top:820px;left:calc(50% + 14px);width:100px;height:25px;background:url("../../images/indeedlink.svg") no-repeat;background-position:center bottom;background-size:cover }
+  .home .corner-b-l { z-index:192;top:0px;left:calc(50% + -2084px);width:1460px;height:1080px;background:url("../../images/sliderbneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .corner-b-r { z-index:193;top:0px;left:calc(50% + 315px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/sliderbneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .corner-g-l { z-index:194;top:0px;left:calc(50% + -2134px);width:1460px;height:1080px;background:url("../../images/slidergneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .corner-g-r { z-index:195;top:0px;left:calc(50% + 365px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/slidergneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .corner-w-l { z-index:196;top:0px;left:calc(50% + -2184px);width:1460px;height:1080px;background:url("../../images/sliderwneu-01.svg") no-repeat;background-position:left top;background-size:1460px 1080px }
+  .home .corner-w-r { z-index:197;top:0px;left:calc(50% + 415px);width:1460px;height:1080px;--tf:matrix(-1,0,0,-1,1460,1080);background:url("../../images/sliderwneu-01.svg") no-repeat;background-position:right top;background-size:1460px 1080px }
+  .home .cbtn-l1 { z-index:227;top:0px;left:calc(50% + -795px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center center;background-size:24px 72px }
+  .home .cbtn-l2 { z-index:228;top:22px;left:calc(50% + -771px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center top;background-size:24px 72px }
+  .home .cbtn-l3 { z-index:229;top:44px;left:calc(50% + -747px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center bottom;background-size:24px 72px }
+  .home .cbtn-r1 { z-index:232;top:1056px;left:calc(50% + 462px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center center;background-size:24px 72px }
+  .home .cbtn-r2 { z-index:233;top:1034px;left:calc(50% + 438px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center top;background-size:24px 72px }
+  .home .cbtn-r3 { z-index:234;top:1012px;left:calc(50% + 414px);width:24px;height:24px;background:url("../../images/button-01.svg") no-repeat;background-position:center bottom;background-size:24px 72px }
+  .home .nav-dot { z-index:235;top:54px;left:calc(50% + -113px);width:5px;height:5px;background-color:#c8c8c8 }
+  .home .head-markus-a { background-image:image-set(url("../../images/markus_juergensen_h-u647-fr.png") 1x, url("../../images/markus_juergensen_h-u647-fr_2x.png") 2x) }
+  .home .head-martin-a { background-image:image-set(url("../../images/martin_roemer_h-u648-fr.png") 1x, url("../../images/martin_roemer_h-u648-fr_2x.png") 2x) }
+  .home .head-markus-c { background-image:image-set(url("../../images/markus_juergensen_f-u746-fr.png") 1x, url("../../images/markus_juergensen_f-u746-fr_2x.png") 2x) }
+  .home .head-markus-b { background-image:image-set(url("../../images/markus_juergensen_f-u746-fr.png") 1x, url("../../images/markus_juergensen_f-u746-fr_2x.png") 2x) }
+  .home .head-martin-c { background-image:image-set(url("../../images/martin_roemer_f-u747-fr.png") 1x, url("../../images/martin_roemer_f-u747-fr_2x.png") 2x) }
+  .home .head-martin-b { background-image:image-set(url("../../images/martin_roemer_f-u747-fr.png") 1x, url("../../images/martin_roemer_f-u747-fr_2x.png") 2x) }
+  /* right-hand corners anchor to the bottom edge of any viewport */
+  .home .corner-b-r, .home .corner-g-r, .home .corner-w-r { top:auto; bottom:0 }
+  .home .cbtn-r1 { top:auto; bottom:0 } .home .cbtn-r2 { top:auto; bottom:22px } .home .cbtn-r3 { top:auto; bottom:44px }
+}
